@@ -1,0 +1,14 @@
+D:\Personal\asp.net\MediatorDesignPattern\MediatorConsoleApp\bin\Debug\net6.0\MediatorConsoleApp.exe
+D:\Personal\asp.net\MediatorDesignPattern\MediatorConsoleApp\bin\Debug\net6.0\MediatorConsoleApp.deps.json
+D:\Personal\asp.net\MediatorDesignPattern\MediatorConsoleApp\bin\Debug\net6.0\MediatorConsoleApp.runtimeconfig.json
+D:\Personal\asp.net\MediatorDesignPattern\MediatorConsoleApp\bin\Debug\net6.0\MediatorConsoleApp.dll
+D:\Personal\asp.net\MediatorDesignPattern\MediatorConsoleApp\bin\Debug\net6.0\MediatorConsoleApp.pdb
+D:\Personal\asp.net\MediatorDesignPattern\MediatorConsoleApp\obj\Debug\net6.0\MediatorConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\asp.net\MediatorDesignPattern\MediatorConsoleApp\obj\Debug\net6.0\MediatorConsoleApp.AssemblyInfoInputs.cache
+D:\Personal\asp.net\MediatorDesignPattern\MediatorConsoleApp\obj\Debug\net6.0\MediatorConsoleApp.AssemblyInfo.cs
+D:\Personal\asp.net\MediatorDesignPattern\MediatorConsoleApp\obj\Debug\net6.0\MediatorConsoleApp.csproj.CoreCompileInputs.cache
+D:\Personal\asp.net\MediatorDesignPattern\MediatorConsoleApp\obj\Debug\net6.0\MediatorConsoleApp.dll
+D:\Personal\asp.net\MediatorDesignPattern\MediatorConsoleApp\obj\Debug\net6.0\refint\MediatorConsoleApp.dll
+D:\Personal\asp.net\MediatorDesignPattern\MediatorConsoleApp\obj\Debug\net6.0\MediatorConsoleApp.pdb
+D:\Personal\asp.net\MediatorDesignPattern\MediatorConsoleApp\obj\Debug\net6.0\MediatorConsoleApp.genruntimeconfig.cache
+D:\Personal\asp.net\MediatorDesignPattern\MediatorConsoleApp\obj\Debug\net6.0\ref\MediatorConsoleApp.dll
